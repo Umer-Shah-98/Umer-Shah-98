@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **umershah1998@gmail.com**
 
-- ⚡ Fun fact **I am an introvert**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
