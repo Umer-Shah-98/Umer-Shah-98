@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **umershah1998@gmail.com**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact **Transforming caffeine into code, one MERN stack at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
