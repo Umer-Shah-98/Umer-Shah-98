@@ -2,7 +2,7 @@
 <h3 align="center">A MERN Maestro: Crafting Web Wonders with the MERN Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-shah-98&label=Profile%20views&color=0e75b6&style=flat" alt="umer-shah-98" /> </p>
-<a align="center" href="https://app.daily.dev/umershahcodes"><img src="https://api.daily.dev/devcards/8a635e1b5503470d9370502e34b998da.png?r=pzy" width="400" alt="Umer Shah's Dev Card"/></a>
+<!-- <a align="center" href="https://app.daily.dev/umershahcodes"><img src="https://api.daily.dev/devcards/8a635e1b5503470d9370502e34b998da.png?r=pzy" width="400" alt="Umer Shah's Dev Card"/></a> -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umer-shah-98" alt="umer-shah-98" /></a> </p>
 
 - 📫 How to reach me **umershah1998@gmail.com**
